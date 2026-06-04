@@ -116,15 +116,15 @@ gotenchain-security/
 ## Website Snapshots
 
 ### Attack Panel and Event Log
-
+<img width="1322" height="670" alt="image" src="https://github.com/user-attachments/assets/ef7267c1-42d1-430c-8260-868e210d9394" />
 
 ### Wallet Inspector
-
+<img width="1322" height="670" alt="image" src="https://github.com/user-attachments/assets/ff0a7088-977c-4515-8bd3-61629220a06f" />
 
 ### Proposal Validator
-
+<img width="1322" height="670" alt="image" src="https://github.com/user-attachments/assets/9c991131-f6ee-408e-8e2d-116a42a29dd2" />
 
 ### Metrics Panel
-
+<img width="1323" height="673" alt="image" src="https://github.com/user-attachments/assets/c17153c7-58ba-449f-a642-1df4c6438145" />
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
